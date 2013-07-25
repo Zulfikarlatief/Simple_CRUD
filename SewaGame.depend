@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1357546285 source:/home/zword/Documents/Coding/C/Titip/SewaGame/main.c
+	"prototype.h"
+
+1357549316 source:/home/zword/Documents/Coding/C/Titip/SewaGame/Control.c
+	"prototype.h"
+
+1357549745 source:/home/zword/Documents/Coding/C/Titip/SewaGame/Model.c
+	"prototype.h"
+
+1362650124 /home/zword/Documents/Coding/C/Titip/SewaGame/prototype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
